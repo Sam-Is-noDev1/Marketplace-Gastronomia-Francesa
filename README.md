@@ -1,2 +1,2 @@
-# Marketplace-Gastronom-a-Francesa
+# Marketplace-Gastronomia-Francesa
 Pagina web encargada de dar a conocer una variedad de productos de la gastronomía francesa
